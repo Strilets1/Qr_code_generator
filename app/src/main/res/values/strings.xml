@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Qr code generator</string>
+    <string name="button_name">Generate QR code</string>
+    <string name="edit_text_hint">Enter text or url</string>
+    <string name="error_no_data_entered">No Data Entered</string>
+</resources>
